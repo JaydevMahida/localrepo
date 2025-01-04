@@ -1,2 +1,3 @@
 console.log("HEYYYY");
-let i = "jayde";
+let y="55";
+let z "50550";
