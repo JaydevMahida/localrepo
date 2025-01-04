@@ -1,3 +1,3 @@
 console.log("HEYYYY");
 let y="55";
-let z "50550";
+let z =  "50";
